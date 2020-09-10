@@ -6,6 +6,7 @@ Source: http://sqlsunday.com/downloads/
 
 **WHAT:**       Returns a list of years, with western and orthodox
             Easter sundays for each year.
+
 **DISCLAIMER:** This script may not be suitable to run in a production
             environment. I cannot assume any responsibility regarding
             the accuracy of the output information, performance
@@ -14,6 +15,7 @@ Source: http://sqlsunday.com/downloads/
             waiver/disclaimer, or if you do not accept these terms,
             you are NOT allowed to store, distribute or use this
             code in any way.
+
 **USAGE:**
 
     @from: Starting date
